@@ -1,0 +1,127 @@
+.feature-headers-wrapper {
+    grid-row-gap: 1rem;
+    flex-direction: column;
+    margin-bottom: 0.5rem;
+    display: flex;
+    position: relative;
+}
+
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+.protocol-heading-content {
+    width: 100%;
+    margin-top: 30px;
+    max-width: 64rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.paragraph-subheader {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading-style-h1 {
+    font-size: 3rem;
+    margin-top: -103px;
+}
+
+.heading-style-h1 {
+    letter-spacing: .02rem;
+    font-size: 5.5rem;
+    font-weight: 700;
+    line-height: .95;
+}
+
+.container-large {
+    margin-right: auto !important;
+    margin-left: auto !important;
+    width: fit-content;
+    height: fit-content;
+}
+
+
+
+.container-large {
+    max-width: 75rem;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.padding-section-large {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+
+.padding-bottom {
+    padding-top: 0rem !important;
+    padding-right: 0rem !important;
+    padding-left: 0rem !important;
+}
+
+.padding-xxhuge {
+    padding: 10rem;
+}
+
+.protocol-bg-blur {
+    z-index: -1;
+    width: 80rem;
+    height: 10rem;
+    max-width: 105rem;
+    filter: blur(80px);
+    /* background-color: #001aff; */
+    border-radius: 50%;
+    margin-left: -8rem;
+    position: absolute;
+    top: 0;
+    bottom: auto;
+    left: 0%;
+    right: 0%;
+}
+
+.protocol-perks-content {
+    width: 50%;
+    grid-column-gap: 6rem;
+    grid-row-gap: 3rem;
+    grid-template-rows: auto auto;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-columns: 1fr;
+    margin-left: auto;
+    display: grid;
+}
+
+
+.protocol-wrapper {
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+    
+    position: relative;
+    width: fit-content;
+}
+
+.cards_protocol-perk {
+    grid-row-gap: 1.5rem;
+    flex-direction: column;
+    display: flex;
+}
+
+.heading-style-h4 {
+    letter-spacing: -.02em;
+    font-family: Polysans median, sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
+.big-planet-wrapper {
+   width: fit-content;
+}
