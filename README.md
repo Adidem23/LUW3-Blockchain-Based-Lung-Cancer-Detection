@@ -10,3 +10,4 @@ This is in which I am Trying to built Web3 Based And AI Powered Lung Cancer Dete
 - Spline 3d
 
 ## Updates 
+https://www.loom.com/share/3fa261622cfe4ea586341c350c4ef1bc
